@@ -1,0 +1,2 @@
+2023-10-09 21:34:49.970  WARN 17920 --- [http-nio-8080-exec-1] c.e.s.controller.CustomerController      : This is WARN
+2023-10-09 21:34:49.971 ERROR 17920 --- [http-nio-8080-exec-1] c.e.s.controller.CustomerController      : This is ERROR
