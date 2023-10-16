@@ -1,7 +1,7 @@
 package com.example.shoppingforall.repository;
 
-import com.example.shoppingforall.domain.Customer;
+import com.example.shoppingforall.entity.CustomerEntity;
 
 public interface CustomerRepository{
-    Customer getCustomerById(String id);
+    CustomerEntity getCustomerById(String id);
 }
